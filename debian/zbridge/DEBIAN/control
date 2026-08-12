@@ -1,0 +1,16 @@
+Package: zbridge
+Version: 1.1.6
+Architecture: amd64
+Maintainer: Anik Mitter <admin@zbridge.club>
+Installed-Size: 28
+Section: games
+Priority: optional
+Homepage: https://zbridge.club
+Description: Play contract bridge online
+ Contract bridge is a trick-taking card game for four players, divided into
+ two partnerships sitting opposite each other (North-South vs. East-West).
+ .
+ zBridge is an online bridge club where you can learn and play contract bridge.
+ Play with Jethro, a competitive bridge bot for 2/1 game forcing, try interactive
+ tutorials, join multiplayer games in social and rated rooms, or analyse deals
+ in the analysis room with AI hints.
