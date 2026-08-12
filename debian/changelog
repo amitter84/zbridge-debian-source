@@ -1,8 +1,8 @@
-zbridge (1.1.8) unstable; urgency=medium
+zbridge (1.1.9) unstable; urgency=medium
 
-  * Update Vcs links to point to dedicated Debian repository https://github.com/amitter84/zbridge-debian-source.
+  * Release 1.1.9 with clean Vcs links pointing to dedicated repository https://github.com/amitter84/zbridge-debian-source and fixed CC0-1.0 metainfo license.
 
- -- Anik Mitter <admin@zbridge.club>  Wed, 12 Aug 2026 15:30:00 +0200
+ -- Anik Mitter <admin@zbridge.club>  Wed, 12 Aug 2026 15:47:00 +0200
 
 zbridge (1.1.5) unstable; urgency=medium
 
