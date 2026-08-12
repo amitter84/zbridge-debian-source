@@ -1,4 +1,4 @@
-Source: zbridge-club
+Source: zbridge
 Section: games
 Priority: optional
 Maintainer: Anik Mitter <admin@zbridge.club>
@@ -8,7 +8,7 @@ Homepage: https://zbridge.club
 Vcs-Git: https://github.com/amitter84/zbridge-flatpak-source.git
 Vcs-Browser: https://github.com/amitter84/zbridge-flatpak-source
 
-Package: zbridge-club
+Package: zbridge
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Play contract bridge online

@@ -1,4 +1,4 @@
-zbridge-club (1.1.5) unstable; urgency=medium
+zbridge (1.1.5) unstable; urgency=medium
 
   * Initial release of zBridge Club for Debian/Ubuntu (Closes: #1000000).
 
