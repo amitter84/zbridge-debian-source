@@ -3,7 +3,7 @@ Section: games
 Priority: optional
 Maintainer: Anik Mitter <admin@zbridge.club>
 Build-Depends: debhelper-compat (= 13)
-Standards-Version: 4.6.2
+Standards-Version: 4.7.0
 Homepage: https://zbridge.club
 Vcs-Git: https://github.com/amitter84/zbridge-flatpak-source.git
 Vcs-Browser: https://github.com/amitter84/zbridge-flatpak-source

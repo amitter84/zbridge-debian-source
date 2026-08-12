@@ -7,6 +7,10 @@ Files: *
 Copyright: 2026 Anik Mitter <admin@zbridge.club>
 License: GPL-3.0-or-later
 
+Files: club.zbridge.zbridge.metainfo.xml
+Copyright: 2026 Anik Mitter <admin@zbridge.club>
+License: CC0-1.0
+
 License: GPL-3.0-or-later
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
@@ -15,3 +19,7 @@ License: GPL-3.0-or-later
  .
  On Debian systems, the complete text of the GNU General Public
  License version 3 can be found in "/usr/share/common-licenses/GPL-3".
+
+License: CC0-1.0
+ On Debian systems, the complete text of the Creative Commons Zero
+ license version 1.0 can be found in "/usr/share/common-licenses/CC0-1.0".
