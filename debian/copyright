@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: zbridge-club
 Upstream-Contact: Anik Mitter <admin@zbridge.club>
-Source: https://github.com/amitter84/zbridge-flatpak-source
+Source: https://github.com/amitter84/zbridge-debian-source
 
 Files: *
 Copyright: 2026 Anik Mitter <admin@zbridge.club>

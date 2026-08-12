@@ -1,8 +1,8 @@
-zbridge (1.1.7) unstable; urgency=medium
+zbridge (1.1.8) unstable; urgency=medium
 
-  * Release version 1.1.7 with updated Standards-Version 4.7.4 and CC0-1.0 metainfo license.
+  * Update Vcs links to point to dedicated Debian repository https://github.com/amitter84/zbridge-debian-source.
 
- -- Anik Mitter <admin@zbridge.club>  Wed, 12 Aug 2026 15:23:00 +0200
+ -- Anik Mitter <admin@zbridge.club>  Wed, 12 Aug 2026 15:30:00 +0200
 
 zbridge (1.1.5) unstable; urgency=medium
 
