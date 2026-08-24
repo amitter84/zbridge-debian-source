@@ -1,3 +1,9 @@
+zbridge (1.1.9-2) unstable; urgency=medium
+
+  * Fix debian/watch syntax error
+
+ -- Anik Mitter <admin@zbridge.club>  Mon, 24 Aug 2026 20:27:49 +0200
+
 zbridge (1.1.9-1) unstable; urgency=medium
 
   * Release 1.1.9 with clean Vcs links pointing to dedicated repository https://github.com/amitter84/zbridge-debian-source and fixed CC0-1.0 metainfo license.
